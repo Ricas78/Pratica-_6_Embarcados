@@ -1,0 +1,29 @@
+commit e8a01f95a6af25f31b91f1400ef1659cc5f54e24
+Author: Ricas78 <ricardo.dias78@hotmail.com>
+Date:   Mon Dec 18 21:43:27 2023 -0300
+
+    Adicionando os arquivos pyhton da parte do RFID e da câmera
+
+commit 2131328162ac59000d8499dc9421eac3bf15e972
+Author: Ricas78 <145056468+Ricas78@users.noreply.github.com>
+Date:   Mon Dec 18 21:16:26 2023 -0300
+
+    Update README.md
+
+commit 05074cabdfde028a54f333a177d32c92718d414d
+Author: Ricas78 <145056468+Ricas78@users.noreply.github.com>
+Date:   Mon Dec 18 21:14:40 2023 -0300
+
+    Update README.md
+
+commit ec6a1ba1faf3325a4c792756d14e905b93609adb
+Author: Ricas78 <145056468+Ricas78@users.noreply.github.com>
+Date:   Mon Dec 18 21:10:12 2023 -0300
+
+    Update README.md
+
+commit cf1fd6c60c9375c433a9a07a52770bd8260abbe8
+Author: Ricas78 <145056468+Ricas78@users.noreply.github.com>
+Date:   Mon Dec 18 20:59:15 2023 -0300
+
+    Initial commit
